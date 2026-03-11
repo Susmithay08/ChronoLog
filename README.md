@@ -1,5 +1,5 @@
-# ChronoLog 📓
-**Day 28 / 30** — AI-powered developer journal with streak tracking
+# ChronoLog 
+AI-powered developer journal with streak tracking
 
 A daily dev journal that tracks what you built, learned, and felt — then generates an AI weekly digest with insights, mood trends, and suggestions for next week.
 
