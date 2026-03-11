@@ -9,7 +9,7 @@ A daily dev journal that tracks what you built, learned, and felt — then gener
 ![Preview](3.png)
 ![Preview](4.png)
 ---
-FRONTEND_URL = 
+FRONTEND_URL = https://chronolog-1.onrender.com
 
 
 ## Features
